@@ -1,0 +1,164 @@
+body {
+  display: flex;
+  justify-content: center;
+  background-image: linear-gradient(-20deg, #b721ff 0%, #21d4fd 100%);
+}
+
+.parentDiv {
+  border-radius: 10px;
+  background-color: #dad7d7 !important;
+}
+header {
+  background-color: white;
+  border-radius: 10px;
+}
+.AyushImage {
+  width: 3rem;
+  border-radius: 10px;
+}
+.IconSpanname {
+  width: 1.5rem;
+  height: 1.5rem;
+  border-radius: 50%;
+  background-color: rgba(128, 128, 128, 0.144) !important;
+}
+.cutandsoldspan {
+  width: 1.2rem;
+  height: 1.2rem;
+  border-radius: 20%;
+  background-color:#306ee8;
+}
+.BoldFont {
+  font-weight: 700;
+}
+.DullFont {
+  color: grey;
+}
+.ParaMargin {
+  margin: 0;
+}
+.smallText {
+  font-size: 10px;
+}
+.mediumText {
+  font-size: 11.5px;
+}
+.largeText {
+  font-size: 13px;
+}
+.BlueText {
+  color: rgb(10, 150, 210);
+}
+.BtnHeigth {
+  height: 38px;
+}
+.GreyColor {
+  background-color: rgba(128, 128, 128, 0.144) !important;
+}
+.IconSpan1 {
+  border-radius: 15px;
+  background-color: white;
+}
+.cutandsold {
+  background-color: rgba(128, 128, 128, 0.144) !important;
+}
+.IconSpan {
+  border-radius: 15px;
+  background-color: rgba(128, 128, 128, 0.144) !important;
+}
+.OptionParent {
+  margin: 0px 1rem 0px 1rem;
+}
+
+.optiondiv1 {
+  border-radius: 10px;
+  background-color: rgba(13, 109, 253, 0.737);
+}
+
+.ReportDiv {
+  width: 18%;
+  background-color: white;
+}
+.SummaryDiv {
+  width: 77%;
+}
+.ReportIconSpan {
+  border-radius: 15px;
+  background-color: rgba(13, 109, 253, 0.737);
+  width: 15%;
+}
+.lowParaMargin {
+  margin-bottom: 7px;
+}
+.Card {
+  background-color: white;
+  width: 22%;
+}
+.CardIcon {
+  border-radius: 15px;
+  width: 25%;
+  height: 3rem;
+}
+.CardIcon1color {
+  background-color: rgba(255, 166, 0, 0.493);
+}
+.CardIcon2color {
+  background-color: rgba(137, 43, 226, 0.399);
+}
+.CardIcon3color {
+  background-color: rgba(0, 255, 255, 0.162);
+}
+
+.CardIcon4color {
+  background-color: rgba(255, 192, 203, 0.512);
+}
+.CardIcon5color {
+  background-color: rgba(255, 140, 0, 0.248);
+}
+.CardIcon6color {
+  background-color: rgba(144, 238, 144, 0.6);
+}
+
+.CardIcon7color {
+  background-color: rgba(137, 43, 226, 0.192);
+}
+
+.CardIcon8color {
+  background-color: rgba(244, 240, 8, 0.277);
+}
+.Graph1 {
+  width: 47%;
+  background-color: white;
+}
+.Graph2 {
+  width: 47%;
+  background-color: white;
+}
+.badge1 {
+  width: 1rem;
+  height: 1rem;
+  background-color: rgb(5, 183, 243);
+  border-radius: 50%;
+}
+.badge2 {
+  width: 1rem;
+  height: 1rem;
+  background-color: red;
+  border-radius: 50%;
+}
+.badge3 {
+  width: 1rem;
+  height: 1rem;
+  background-color: #4b0082;
+  border-radius: 50%;
+}
+.badge4 {
+  width: 1rem;
+  height: 1rem;
+  background-color: #edab04;
+  border-radius: 50%;
+}
+.loading {
+  height: 5rem;
+  background-color: white;
+}
